@@ -119,9 +119,9 @@ body {
     position: static !important;
   }
 
-  .hero-banner-img {
+  /* .hero-banner-img {
     display: none;
-  }
+  } */
 
   .exercise-card {
     width: 320px;
